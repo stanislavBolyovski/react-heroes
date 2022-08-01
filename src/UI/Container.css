@@ -1,0 +1,11 @@
+.containerComponent{
+    background-color: #9fd3c7;
+    width: 80vw;
+    padding: 1rem;
+    margin: 1rem 0rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    
+}

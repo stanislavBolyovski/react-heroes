@@ -1,0 +1,30 @@
+.overlay{
+    opacity:0.8;
+    background: #222020;
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:10;
+    display: flex;
+    
+}
+.errorMessage{
+   position: fixed;
+   z-index: 100;
+   
+}
+.errorMessageContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.errorMessage h2{
+    margin: 0px;
+    color: #142d4c;
+}
+.errorMessage p {
+    color:#142d4ced;
+}

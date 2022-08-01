@@ -1,0 +1,12 @@
+input {
+    padding: .3rem 1rem;
+    border-radius: 1rem;
+    border: none;
+    margin-bottom: 1rem;
+    background-color: #385170;
+    color: #9fd3c7;
+}
+
+::placeholder {
+    color: lightslategrey;
+}
